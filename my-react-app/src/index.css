@@ -1,23 +1,27 @@
-.list-category{
-    font-size: 2.5rem;
+.counter-container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.count-display{
+    font-size: 10em;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+.counter-button{
+    width: 150px;
+    height: 50px;
+    font-size: 1.5em;
     font-weight: bold;
-    color: hsla(0, 5%, 81%, 0.568);
-    margin-bottom: 10px;
-    text-align: center;
-    border: 3px;
+    margin: 0px 5px;
+    background-color: aqua;
+    color: white;
+    border: none;
     border-radius: 5px;
-    background-color: hsla(0, 2%, 12%, 0.753);
-}
-
-.list-items li{
-    font-size: 2em;
-    list-style: none;
-    color: hsl(0, 0%, 28%);
-    text-align: center;
-    margin: 0;
-}
-
-.list-items li:hover{
-    color: rgb(170, 170, 170);
     cursor: pointer;
+}
+
+.counter-button:hover{
+    background-color: aquamarine;
 }

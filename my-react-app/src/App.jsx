@@ -1,10 +1,10 @@
-import Counter2 from "./Counter2";
+import MyComponent3 from './MyComponent3';
 
 function App() {
 
     return( 
       <>
-        <Counter2 />
+        <MyComponent3 />
       </>
     );
 }

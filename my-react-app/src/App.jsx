@@ -1,10 +1,10 @@
-import ComponentA from "./ComponentA";
+import MyComponent8 from "./Mycomponent8";
 
 function App() {
 
     return( 
       <>
-        <ComponentA />
+        <MyComponent8 />
       </>
     );
 }

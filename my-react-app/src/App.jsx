@@ -1,10 +1,10 @@
-import MyComponent8 from "./Mycomponent8";
+import Stopwatch from "./Stopwatch";
 
 function App() {
 
     return( 
       <>
-        <MyComponent8 />
+        <Stopwatch />
       </>
     );
 }
